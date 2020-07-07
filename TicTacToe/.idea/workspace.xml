@@ -26,10 +26,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BrainTeasers" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Tic_Tac-Copy">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TicTacToe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,8 +51,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Tic_Tac-Copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tic_Tac-Copy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tic_Tac-Copy" />
         <item itemvalue="Python.Main" />
       </list>
     </recent_temporary>
@@ -71,26 +93,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="842" y="226" key="FileChooserDialogImpl" timestamp="1591151291028">
+    <state x="239" y="180" key="FileChooserDialogImpl" timestamp="1592519243098">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="842" y="226" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1591151291028" />
-    <state width="1259" height="188" key="GridCell.Tab.0.bottom" timestamp="1591233282454">
+    <state x="239" y="180" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1592519243098" />
+    <state width="1259" height="186" key="GridCell.Tab.0.bottom" timestamp="1591651370004">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1259" height="188" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591233282454" />
-    <state width="1259" height="188" key="GridCell.Tab.0.center" timestamp="1591233282454">
+    <state width="1259" height="186" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591651370004" />
+    <state width="1259" height="186" key="GridCell.Tab.0.center" timestamp="1591651370004">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1259" height="188" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591233282454" />
-    <state width="1259" height="188" key="GridCell.Tab.0.left" timestamp="1591233282454">
+    <state width="1259" height="186" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591651370004" />
+    <state width="1259" height="186" key="GridCell.Tab.0.left" timestamp="1591651370004">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1259" height="188" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591233282454" />
-    <state width="1259" height="188" key="GridCell.Tab.0.right" timestamp="1591233282454">
+    <state width="1259" height="186" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591651370004" />
+    <state width="1259" height="186" key="GridCell.Tab.0.right" timestamp="1591651370004">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1259" height="188" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591233282454" />
+    <state width="1259" height="186" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591651370004" />
     <state x="150" y="25" key="SettingsEditor" timestamp="1591151383841">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
