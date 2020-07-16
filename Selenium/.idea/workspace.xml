@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1abd9979-b2d5-4a4f-869d-ad9eed86731f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BrainTeasers/Edabit" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Tutorial_37">
+  <component name="RunManager" selected="Python.Shetty_Academy_Form (1)">
     <configuration name="Facebook_log_in" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tutorial_37" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Sales_Force_LogIn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tutorial/Tutorial_37.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\raval\Documents\GitHub\Small_Projects\Selenium\Tutorial\Sales_Force_LogIn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tutorial_40" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Shetty_Academy_Form (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +123,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tutorial/Tutorial_40.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tutorial/Shetty_Academy_Form.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Shetty_Academy_Form" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\raval\Documents\GitHub\Small_Projects\Selenium\Tutorial\Shetty_Academy_Form.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,8 +155,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Tutorial_37" />
-        <item itemvalue="Python.Tutorial_40" />
+        <item itemvalue="Python.Shetty_Academy_Form (1)" />
+        <item itemvalue="Python.Sales_Force_LogIn" />
+        <item itemvalue="Python.Shetty_Academy_Form" />
         <item itemvalue="Python.Facebook_log_in" />
         <item itemvalue="Python.Inspecting HTML" />
       </list>
@@ -136,6 +176,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="654" y="275" key="#Notifications" timestamp="1594676279686">
       <screen x="0" y="0" width="1536" height="824" />
@@ -150,22 +202,22 @@
     </state>
     <state x="422" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1592588131804" />
     <state x="506" y="146" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594692402681" />
-    <state width="740" height="194" key="GridCell.Tab.0.bottom" timestamp="1594756299726">
+    <state width="1509" height="189" key="GridCell.Tab.0.bottom" timestamp="1594832356186">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="740" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594756299726" />
-    <state width="740" height="194" key="GridCell.Tab.0.center" timestamp="1594756299726">
+    <state width="1509" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594832356186" />
+    <state width="1509" height="189" key="GridCell.Tab.0.center" timestamp="1594832356186">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="740" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594756299726" />
-    <state width="740" height="194" key="GridCell.Tab.0.left" timestamp="1594756299726">
+    <state width="1509" height="189" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594832356186" />
+    <state width="1509" height="189" key="GridCell.Tab.0.left" timestamp="1594832356186">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="740" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594756299726" />
-    <state width="740" height="194" key="GridCell.Tab.0.right" timestamp="1594756299726">
+    <state width="1509" height="189" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594832356186" />
+    <state width="1509" height="189" key="GridCell.Tab.0.right" timestamp="1594832356186">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="740" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594756299726" />
+    <state width="1509" height="189" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594832356186" />
     <state x="180" y="27" key="SettingsEditor" timestamp="1594678426419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
