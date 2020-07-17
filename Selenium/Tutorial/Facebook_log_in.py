@@ -16,4 +16,9 @@ for i in driver.find_elements_by_css_selector("div[class='_1mf _1mj']"):
     i.send_keys('Happy Birthday!')
     i.send_keys(Keys.RETURN)
 time.sleep(4)
-driver.close()
+
+
+
+
+
+

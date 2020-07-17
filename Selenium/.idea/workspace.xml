@@ -45,9 +45,51 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BrainTeasers/Edabit" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.Flight_Booking_From_To">
+  <component name="RunManager" selected="Python.Checkbox_and_radiobutton">
+    <configuration name="Checkbox_and_radiobutton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\raval\Documents\GitHub\Small_Projects\Selenium\Tutorial\Checkbox_and_radiobutton.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Facebook_log_in" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tutorial/Facebook_log_in.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Flight_Booking_From_To" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sales_Force_LogIn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Flight_Tem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,49 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\raval\Documents\GitHub\Small_Projects\Selenium\Tutorial\Sales_Force_LogIn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Shetty_Academy_Form (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tutorial" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tutorial/Shetty_Academy_Form.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Shetty_Academy_Form" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tutorial" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\raval\Documents\GitHub\Small_Projects\Selenium\Tutorial\Shetty_Academy_Form.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tutorial/Flight_Tem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Checkbox_and_radiobutton" />
+        <item itemvalue="Python.Flight_Tem" />
         <item itemvalue="Python.Flight_Booking_From_To" />
+        <item itemvalue="Python.Facebook_log_in" />
         <item itemvalue="Python.Flight_Boooking" />
-        <item itemvalue="Python.Shetty_Academy_Form (1)" />
-        <item itemvalue="Python.Sales_Force_LogIn" />
-        <item itemvalue="Python.Shetty_Academy_Form" />
       </list>
     </recent_temporary>
   </component>
@@ -197,31 +197,51 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="97" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1592519449579" />
-    <state x="506" y="146" key="FileChooserDialogImpl" timestamp="1594692402681">
+    <state x="506" y="146" key="FileChooserDialogImpl" timestamp="1594972720158">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="422" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1592588131804" />
-    <state x="506" y="146" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594692402681" />
-    <state width="1509" height="190" key="GridCell.Tab.0.bottom" timestamp="1594941832428">
+    <state x="506" y="146" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594972720158" />
+    <state width="746" height="211" key="GridCell.Tab.0.bottom" timestamp="1595014957869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594941832428" />
-    <state width="1509" height="190" key="GridCell.Tab.0.center" timestamp="1594941832428">
+    <state width="746" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595014957869" />
+    <state width="746" height="211" key="GridCell.Tab.0.center" timestamp="1595014957868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594941832428" />
-    <state width="1509" height="190" key="GridCell.Tab.0.left" timestamp="1594941832428">
+    <state width="746" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595014957868" />
+    <state width="746" height="211" key="GridCell.Tab.0.left" timestamp="1595014957868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594941832428" />
-    <state width="1509" height="190" key="GridCell.Tab.0.right" timestamp="1594941832428">
+    <state width="746" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595014957868" />
+    <state width="746" height="211" key="GridCell.Tab.0.right" timestamp="1595014957869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594941832428" />
-    <state x="180" y="27" key="SettingsEditor" timestamp="1594678426419">
+    <state width="746" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595014957869" />
+    <state width="746" height="258" key="GridCell.Tab.1.bottom" timestamp="1595007019556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595007019556" />
+    <state width="746" height="258" key="GridCell.Tab.1.center" timestamp="1595007019556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595007019556" />
+    <state width="746" height="258" key="GridCell.Tab.1.left" timestamp="1595007019556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595007019556" />
+    <state width="746" height="258" key="GridCell.Tab.1.right" timestamp="1595007019556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595007019556" />
+    <state x="255" y="50" key="SettingsEditor" timestamp="1594998633291">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="150" y="25" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1592522650057" />
-    <state x="180" y="27" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594678426419" />
+    <state x="255" y="50" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594998633291" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594998107251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594998107251" />
   </component>
 </project>
