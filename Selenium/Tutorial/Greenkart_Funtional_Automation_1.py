@@ -11,6 +11,7 @@ driver.find_element_by_css_selector("[class='search-keyword']").send_keys('ber')
 time.sleep(3)
 #name=driver.find_elements_by_css_selector("h4.product-name")
 grocery=driver.find_elements_by_xpath("//div[@class='product-action']/button")
+#child to grand parent
 #//div[@class='product-action']/button/parent::div/parent::div/h4
 
 l=[]
