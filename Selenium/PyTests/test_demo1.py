@@ -9,6 +9,8 @@
 #pytest.mark.xfail
 #Fixtures are used as setup and tear down methods for test cases-conftest file to gerneralize
 #fixture and make it available to all test cases
+#datadriven and parameterization can be done with return statments in list format
+# when you define fixture scope ot class only, it will run once before class is initiated and at the end
 import pytest
 
 @pytest.mark.skip
@@ -16,7 +18,9 @@ def test_firstProgram():
     print("Hello")
 @pytest.mark.smoke
 def test_secondProgram(setup):
-    print("Good Morning")
+   print("Good Morning")
 def test_credit_card():
     name='rupal'
-    assert name=='chinmay' , "name does not match"
+    assert name=='rupal' , "name does not match"
+def test_crossBrowser(crossBrowser):
+    print(crossBrowser[1])
