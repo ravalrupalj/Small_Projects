@@ -187,12 +187,14 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.conftest" />
+      <item itemvalue="Python tests.pytest in PyTest_Fixture.py (1)" />
+      <item itemvalue="Python tests.pytest in Test_Fixture.py" />
       <item itemvalue="Python tests.pytest" />
+      <item itemvalue="Python tests.pytest for test_demo1.test_credit_card" />
+      <item itemvalue="Python tests.pytest for test_demo1.test_crossBrowser" />
       <item itemvalue="Python tests.pytest for test_demo1.test_secondProgram" />
       <item itemvalue="Python tests.pytest in test_demo1.py" />
-      <item itemvalue="Python.conftest" />
-      <item itemvalue="Python tests.pytest for test_demo1.test_crossBrowser" />
-      <item itemvalue="Python tests.pytest for test_demo1.test_credit_card" />
     </list>
     <recent_temporary>
       <list>
@@ -204,6 +206,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -239,6 +242,10 @@
     </state>
     <state x="97" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1592519449579" />
     <state x="116" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595534244590" />
+    <state x="833" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596050721797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="833" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1596050721797" />
     <state x="772" y="0" key="#pytest_in_PyTest_Fixture.py" timestamp="1595879314311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

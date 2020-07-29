@@ -3,7 +3,9 @@
 #Any code should be wrapped in method only
 #Method name should make sense
 # -k stands for method name execiton, -s logs in out put -v stands for more info metadata
-# you can run specific file with py.test <filename>
+# Single file=you can run specific file with py.test <filename>
+# Single method=py.test (file name)::method name
+# run method with specific word=py.test -v -k "Program"
 # you can mark(tag)tests @pytest.mark.smoke and then run with -m
 # you can skip tests with @pytest.mark.skip
 #pytest.mark.xfail
