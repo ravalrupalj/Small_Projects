@@ -1,0 +1,4 @@
+2020-07-31 16:06:47,664:INFO:PyTests.test_logging:Information statment
+2020-07-31 16:06:47,664:WARNING:PyTests.test_logging:Something is in warning mode
+2020-07-31 16:06:47,664:ERROR:PyTests.test_logging:A major error has happend
+2020-07-31 16:06:47,664:CRITICAL:PyTests.test_logging:Critical issue
