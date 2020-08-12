@@ -194,12 +194,12 @@
     <list>
       <item itemvalue="Python.Costco_Script" />
       <item itemvalue="Python.Test_Case_1" />
-      <item itemvalue="Python tests.pytest for test_FixtureData.TestExample2" />
-      <item itemvalue="Python tests.pytest for test_logging.test_loggingdemo" />
       <item itemvalue="Python tests.pytest in C:/Users/raval/Documents/GitHub/Small_Projects/Selenium/PyTests/PyTest_Fixture.py" />
       <item itemvalue="Python tests.pytest in Test_Fixture.py" />
-      <item itemvalue="Python tests.pytest in test_logging.py" />
       <item itemvalue="Python tests.pytest" />
+      <item itemvalue="Python tests.pytest for test_FixtureData.TestExample2" />
+      <item itemvalue="Python tests.pytest for test_logging.test_loggingdemo" />
+      <item itemvalue="Python tests.pytest in test_logging.py" />
     </list>
     <recent_temporary>
       <list>
@@ -268,38 +268,38 @@
     </state>
     <state x="422" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1592588131804" />
     <state x="506" y="146" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595533445924" />
-    <state width="1515" height="183" key="GridCell.Tab.0.bottom" timestamp="1596739621285">
+    <state width="1515" height="183" key="GridCell.Tab.0.bottom" timestamp="1597177529845">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596739621285" />
-    <state width="1515" height="183" key="GridCell.Tab.0.center" timestamp="1596739621285">
+    <state width="1515" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597177529845" />
+    <state width="1515" height="183" key="GridCell.Tab.0.center" timestamp="1597177529845">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596739621285" />
-    <state width="1515" height="183" key="GridCell.Tab.0.left" timestamp="1596739621285">
+    <state width="1515" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597177529845" />
+    <state width="1515" height="183" key="GridCell.Tab.0.left" timestamp="1597177529845">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596739621285" />
-    <state width="1515" height="183" key="GridCell.Tab.0.right" timestamp="1596739621285">
+    <state width="1515" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597177529845" />
+    <state width="1515" height="183" key="GridCell.Tab.0.right" timestamp="1597177529845">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596739621285" />
-    <state width="748" height="251" key="GridCell.Tab.1.bottom" timestamp="1596720937438">
+    <state width="1515" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597177529845" />
+    <state width="1515" height="254" key="GridCell.Tab.1.bottom" timestamp="1597157652341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596720937438" />
-    <state width="748" height="251" key="GridCell.Tab.1.center" timestamp="1596720937438">
+    <state width="1515" height="254" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597157652341" />
+    <state width="1515" height="254" key="GridCell.Tab.1.center" timestamp="1597157652339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596720937438" />
-    <state width="748" height="251" key="GridCell.Tab.1.left" timestamp="1596720937438">
+    <state width="1515" height="254" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597157652339" />
+    <state width="1515" height="254" key="GridCell.Tab.1.left" timestamp="1597157652339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596720937438" />
-    <state width="748" height="251" key="GridCell.Tab.1.right" timestamp="1596720937438">
+    <state width="1515" height="254" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597157652339" />
+    <state width="1515" height="254" key="GridCell.Tab.1.right" timestamp="1597157652339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596720937438" />
+    <state width="1515" height="254" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597157652339" />
     <state x="466" y="53" key="SettingsEditor" timestamp="1595534226651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -309,5 +309,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594998107251" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tutorial/Amazon_Script.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
