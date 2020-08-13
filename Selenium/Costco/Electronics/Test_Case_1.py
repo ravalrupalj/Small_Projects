@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 driver= webdriver.Chrome(executable_path='C:\\Users\\raval\\Documents\\chromedriver_win32\\chromedriver.exe')
 driver.get('https://www.amazon.ca/')
-driver.implicitly_wait(5)
+driver.implicitly_wait(8)
 driver.maximize_window()
 electronics=driver.find_element_by_id("nav-hamburger-menu")
 electronics.click()
@@ -47,6 +47,12 @@ driver.find_element_by_xpath("//span[@class='a-size-base a-color-base a-text-bol
 #for each in TVsize:
 #    assert each.text in range(50,59)
 driver.find_element_by_xpath("//span[contains(text(),'LCD & LED')]").click()
-LCD_LED=driver.find_elements_by_xpath("//div[@class='a-section a-spacing-none']/h2")
-for each in LCD_LED:
+LCD_LED_TVs=driver.find_elements_by_xpath("//div[@class='a-section a-spacing-none']/h2")
+for each in LCD_LED_TVs:
    assert 'LCD' or 'LED' in each.text
+
+driver.find_element_by_xpath("//span[@class='a-size-base a-color-base a-text-bold'][contains(text(),'LCD & LED')]").click()
+driver.find_element_by_xpath("//span[@class='a-size-base a-color-base'][contains(text(),'OLED')]").click()
+OLED_TVs=driver.find_elements_by_xpath("//div[@class='a-section a-spacing-none']/h2")
+for each in OLED_TVs:
+  assert "OLED" in each.text
