@@ -59,7 +59,7 @@ for each in OLED_TVs:
 
 
 driver.find_element_by_xpath("//span[@class='a-size-base a-color-base a-text-bold'][contains(text(),'OLED')]").click()
-driver.find_element_by_xpath("//span[@class='a-size-base a-color-base a-text-bold'][contains(text(),'4K Ultra HD')]").click()
+driver.find_element_by_xpath("//li[@aria-label='4K Ultra HD']/span/a/div").click()
 ultra_HD=driver.find_elements_by_xpath("//div[@class='a-section a-spacing-none']/h2")
 for each in ultra_HD:
-   assert "4K" in each.text
+   assert "4K" and "Smart" in each.text
