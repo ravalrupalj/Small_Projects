@@ -52,7 +52,7 @@
       <recent name="C:\Users\raval\Documents\GitHub\Small_Projects\Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Shetty_Academy_Form">
+  <component name="RunManager" selected="Python.Electronics_Mobiles">
     <configuration name="Costco_Script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +74,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Electronics_Mobiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Costco/Electronics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Costco/Electronics/Electronics_Mobiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Electronics_TVs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Costco/Electronics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\raval\Documents\GitHub\Small_Projects\Selenium\Costco\Electronics\Electronics_TVs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Shetty_Academy_Form" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,27 +129,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tutorial/Shetty_Academy_Form.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test_Case_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Costco/Electronics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Costco/Electronics/Test_Case_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,22 +185,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_logging.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyTests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/PyTests/test_logging.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,20 +204,20 @@
     <list>
       <item itemvalue="Python.Costco_Script" />
       <item itemvalue="Python.Shetty_Academy_Form" />
-      <item itemvalue="Python.Test_Case_1" />
-      <item itemvalue="Python tests.pytest for test_FixtureData.TestExample2" />
       <item itemvalue="Python tests.pytest in C:/Users/raval/Documents/GitHub/Small_Projects/Selenium/PyTests/PyTest_Fixture.py" />
       <item itemvalue="Python tests.pytest in Test_Fixture.py" />
-      <item itemvalue="Python tests.pytest in test_logging.py" />
       <item itemvalue="Python tests.pytest" />
+      <item itemvalue="Python tests.pytest for test_FixtureData.TestExample2" />
+      <item itemvalue="Python.Electronics_TVs" />
+      <item itemvalue="Python.Electronics_Mobiles" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Electronics_Mobiles" />
         <item itemvalue="Python.Shetty_Academy_Form" />
-        <item itemvalue="Python.Test_Case_1" />
+        <item itemvalue="Python.Electronics_TVs" />
         <item itemvalue="Python.Costco_Script" />
         <item itemvalue="Python tests.pytest for test_FixtureData.TestExample2" />
-        <item itemvalue="Python tests.pytest in test_logging.py" />
       </list>
     </recent_temporary>
   </component>
