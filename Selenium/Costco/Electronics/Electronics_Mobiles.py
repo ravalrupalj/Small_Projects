@@ -6,3 +6,5 @@ driver= webdriver.Chrome(executable_path='C:\\Users\\raval\\Documents\\chromedri
 driver.get('https://www.amazon.ca/')
 driver.implicitly_wait(8)
 driver.maximize_window()
+electronics=driver.find_element_by_id("nav-hamburger-menu")
+electronics.click()
