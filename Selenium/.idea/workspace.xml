@@ -95,6 +95,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Electronics_TVs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Costco/Electronics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Costco/Electronics/Electronics_TVs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Electronics_TVs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,22 +156,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_FixtureData.TestExample2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyTests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_FixtureData.TestExample2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in C:/Users/raval/Documents/GitHub/Small_Projects/Selenium/PyTests/PyTest_Fixture.py" type="tests" factoryName="py.test" nameIsGenerated="true">
@@ -203,21 +208,21 @@
     </configuration>
     <list>
       <item itemvalue="Python.Costco_Script" />
-      <item itemvalue="Python.Shetty_Academy_Form" />
-      <item itemvalue="Python.Electronics_TVs" />
       <item itemvalue="Python.Electronics_Mobiles" />
+      <item itemvalue="Python.Electronics_TVs" />
+      <item itemvalue="Python.Shetty_Academy_Form" />
+      <item itemvalue="Python.Electronics_TVs (1)" />
       <item itemvalue="Python tests.pytest in C:/Users/raval/Documents/GitHub/Small_Projects/Selenium/PyTests/PyTest_Fixture.py" />
       <item itemvalue="Python tests.pytest in Test_Fixture.py" />
       <item itemvalue="Python tests.pytest" />
-      <item itemvalue="Python tests.pytest for test_FixtureData.TestExample2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Electronics_Mobiles" />
+        <item itemvalue="Python.Electronics_TVs (1)" />
         <item itemvalue="Python.Shetty_Academy_Form" />
         <item itemvalue="Python.Electronics_TVs" />
         <item itemvalue="Python.Costco_Script" />
-        <item itemvalue="Python tests.pytest for test_FixtureData.TestExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -278,42 +283,42 @@
     </state>
     <state x="422" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1592588131804" />
     <state x="506" y="146" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595533445924" />
-    <state width="1515" height="180" key="GridCell.Tab.0.bottom" timestamp="1598234585752">
+    <state width="1515" height="177" key="GridCell.Tab.0.bottom" timestamp="1598648828337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="180" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598234585752" />
+    <state width="1515" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598648828337" />
     <state width="1899" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1597703016589" />
-    <state width="1515" height="180" key="GridCell.Tab.0.center" timestamp="1598234585752">
+    <state width="1515" height="177" key="GridCell.Tab.0.center" timestamp="1598648828336">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="180" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598234585752" />
+    <state width="1515" height="177" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598648828336" />
     <state width="1899" height="183" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1597703016589" />
-    <state width="1515" height="180" key="GridCell.Tab.0.left" timestamp="1598234585752">
+    <state width="1515" height="177" key="GridCell.Tab.0.left" timestamp="1598648828336">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="180" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598234585752" />
+    <state width="1515" height="177" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598648828336" />
     <state width="1899" height="183" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1597703016589" />
-    <state width="1515" height="180" key="GridCell.Tab.0.right" timestamp="1598234585752">
+    <state width="1515" height="177" key="GridCell.Tab.0.right" timestamp="1598648828337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="180" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598234585752" />
+    <state width="1515" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598648828337" />
     <state width="1899" height="183" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1597703016589" />
-    <state width="1515" height="254" key="GridCell.Tab.1.bottom" timestamp="1597157652341">
+    <state width="1515" height="253" key="GridCell.Tab.1.bottom" timestamp="1598472436063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="254" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597157652341" />
-    <state width="1515" height="254" key="GridCell.Tab.1.center" timestamp="1597157652339">
+    <state width="1515" height="253" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598472436063" />
+    <state width="1515" height="253" key="GridCell.Tab.1.center" timestamp="1598472436063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="254" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597157652339" />
-    <state width="1515" height="254" key="GridCell.Tab.1.left" timestamp="1597157652339">
+    <state width="1515" height="253" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598472436063" />
+    <state width="1515" height="253" key="GridCell.Tab.1.left" timestamp="1598472436062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="254" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597157652339" />
-    <state width="1515" height="254" key="GridCell.Tab.1.right" timestamp="1597157652339">
+    <state width="1515" height="253" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598472436062" />
+    <state width="1515" height="253" key="GridCell.Tab.1.right" timestamp="1598472436063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="254" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597157652339" />
+    <state width="1515" height="253" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598472436063" />
     <state x="466" y="53" key="SettingsEditor" timestamp="1595534226651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
