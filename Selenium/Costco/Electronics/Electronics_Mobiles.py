@@ -89,4 +89,4 @@ print(driver.find_element_by_xpath("//span[@id='priceblock_ourprice']").text)
 driver.find_element_by_xpath("//input[@id='add-to-cart-button']").click()
 driver.find_element_by_xpath("//span[@id='nav-cart-count']").click()
 assert "New Apple iPad (10.2-Inch, Wi-Fi, 32GB) - Space Gray (Latest Model)"== driver.find_element_by_xpath("//span[@class='a-size-medium sc-product-title a-text-bold']").text
-assert "CDN$ 488.98"==driver.find_element_by_xpath("//span[@class='a-size-medium a-color-base sc-price sc-white-space-nowrap sc-product-price a-text-bold']").text
+assert "CDN$ 489.00"==driver.find_element_by_xpath("//span[@class='a-size-medium a-color-base sc-price sc-white-space-nowrap sc-product-price a-text-bold']").text
