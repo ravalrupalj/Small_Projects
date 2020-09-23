@@ -210,11 +210,11 @@
       <item itemvalue="Python.Electronics_Mobiles" />
       <item itemvalue="Python.Electronics_TVs (1)" />
       <item itemvalue="Python.Electronics_TVs" />
+      <item itemvalue="Python.Music_Movies_TVshows" />
       <item itemvalue="Python.Shetty_Academy_Form" />
       <item itemvalue="Python tests.pytest in C:/Users/raval/Documents/GitHub/Small_Projects/Selenium/PyTests/PyTest_Fixture.py" />
       <item itemvalue="Python tests.pytest in Test_Fixture.py" />
       <item itemvalue="Python tests.pytest" />
-      <item itemvalue="Python.Music_Movies_TVshows" />
     </list>
     <recent_temporary>
       <list>
@@ -262,10 +262,10 @@
     </state>
     <state x="97" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1592519449579" />
     <state x="116" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595534244590" />
-    <state x="833" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599488565013">
+    <state x="833" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600804022956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="833" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1599488565013" />
+    <state x="833" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1600804022956" />
     <state x="883" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596226485748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -283,25 +283,25 @@
     </state>
     <state x="422" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1592588131804" />
     <state x="506" y="146" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595533445924" />
-    <state width="1515" height="177" key="GridCell.Tab.0.bottom" timestamp="1599876258449">
+    <state width="1515" height="177" key="GridCell.Tab.0.bottom" timestamp="1600804816852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599876258449" />
+    <state width="1515" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600804816852" />
     <state width="1899" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1597703016589" />
-    <state width="1515" height="177" key="GridCell.Tab.0.center" timestamp="1599876258449">
+    <state width="1515" height="177" key="GridCell.Tab.0.center" timestamp="1600804816852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="177" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599876258449" />
+    <state width="1515" height="177" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600804816852" />
     <state width="1899" height="183" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1597703016589" />
-    <state width="1515" height="177" key="GridCell.Tab.0.left" timestamp="1599876258449">
+    <state width="1515" height="177" key="GridCell.Tab.0.left" timestamp="1600804816852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="177" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599876258449" />
+    <state width="1515" height="177" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600804816852" />
     <state width="1899" height="183" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1597703016589" />
-    <state width="1515" height="177" key="GridCell.Tab.0.right" timestamp="1599876258449">
+    <state width="1515" height="177" key="GridCell.Tab.0.right" timestamp="1600804816852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599876258449" />
+    <state width="1515" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600804816852" />
     <state width="1899" height="183" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1597703016589" />
     <state width="1515" height="253" key="GridCell.Tab.1.bottom" timestamp="1598472436063">
       <screen x="0" y="0" width="1536" height="824" />
